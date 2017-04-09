@@ -19,7 +19,7 @@ This module provides only dependecies.
         'auto_backup',
         'base',
 #        'base_phone',        
-        'base_location',        
+#        'base_location',        
         'contacts',
         'document',
         'fleet',
